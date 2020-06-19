@@ -1,5 +1,6 @@
 # Twisted Word
 
+[Live version](https://trusting-nightingale-576e55.netlify.app/)
 ## Installation
 
 Install dependencies:
@@ -17,5 +18,5 @@ npm start
 Create the build:
 
 ```
-npm run build
+npm run prod
 ```
